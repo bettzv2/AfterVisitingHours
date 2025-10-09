@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: a1693dcad521bc54c8270cae3003dab9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1465479194413738503
+    second: Enemigo3_Diying_0
+  - first:
+      213: -7921149489161744669
+    second: Enemigo3_Diying_1
+  - first:
+      213: -6500993660359231264
+    second: Enemigo3_Diying_2
+  - first:
+      213: 638026626333203679
+    second: Enemigo3_Diying_3
+  - first:
+      213: -3910418704149730078
+    second: Enemigo3_Diying_4
+  - first:
+      213: 6540501986975936296
+    second: Enemigo3_Diying_5
+  - first:
+      213: 820737044293680916
+    second: Enemigo3_Diying_6
+  - first:
+      213: 5048982353261436184
+    second: Enemigo3_Diying_7
+  - first:
+      213: 3313551947967592120
+    second: Enemigo3_Diying_8
+  - first:
+      213: 6718296495325756432
+    second: Enemigo3_Diying_9
+  - first:
+      213: -572855064001256477
+    second: Enemigo3_Diying_10
+  - first:
+      213: 341161673366147000
+    second: Enemigo3_Diying_11
+  - first:
+      213: 3197139831229420588
+    second: Enemigo3_Diying_12
+  - first:
+      213: 8436123998461325643
+    second: Enemigo3_Diying_13
+  - first:
+      213: 5420242182086710864
+    second: Enemigo3_Diying_14
+  - first:
+      213: 5205593585624462535
+    second: Enemigo3_Diying_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemigo3_Diying_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70aa1c8109d665410800000000000000
+      internalID: 1465479194413738503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo3_Diying_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 77
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee4fb5f18c621290800000000000000
+      internalID: -7921149489161744669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo3_Diying_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 75
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8b83ba5b4d7c5a0800000000000000
+      internalID: -6500993660359231264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo3_Diying_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 74
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcd4d316d9bad800800000000000000
+      internalID: 638026626333203679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo3_Diying_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecac1828e66bb9c0800000000000000
+      internalID: -3910418704149730078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo3_Diying_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 51
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fef6277e784ca50800000000000000
+      internalID: 6540501986975936296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo3_Diying_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 49
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ff02b4ef7d36b00800000000000000
+      internalID: 820737044293680916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo3_Diying_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 49
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d1d5b13b6911640800000000000000
+      internalID: 5048982353261436184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo3_Diying_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b67963d0f91cfd20800000000000000
+      internalID: 3313551947967592120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo3_Diying_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 24
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cb4a3411f2c3d50800000000000000
+      internalID: 6718296495325756432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo3_Diying_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 24
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3eb6aba5fcc08f0800000000000000
+      internalID: -572855064001256477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo3_Diying_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 24
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf87fffbbc0cb400800000000000000
+      internalID: 341161673366147000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo3_Diying_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c249ea1ccb58e5c20800000000000000
+      internalID: 3197139831229420588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo3_Diying_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b417f618412231570800000000000000
+      internalID: 8436123998461325643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo3_Diying_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056ddd30c81983b40800000000000000
+      internalID: 5420242182086710864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo3_Diying_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4b23429cbfd3840800000000000000
+      internalID: 5205593585624462535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemigo3_Diying_0: 1465479194413738503
+      Enemigo3_Diying_1: -7921149489161744669
+      Enemigo3_Diying_10: -572855064001256477
+      Enemigo3_Diying_11: 341161673366147000
+      Enemigo3_Diying_12: 3197139831229420588
+      Enemigo3_Diying_13: 8436123998461325643
+      Enemigo3_Diying_14: 5420242182086710864
+      Enemigo3_Diying_15: 5205593585624462535
+      Enemigo3_Diying_2: -6500993660359231264
+      Enemigo3_Diying_3: 638026626333203679
+      Enemigo3_Diying_4: -3910418704149730078
+      Enemigo3_Diying_5: 6540501986975936296
+      Enemigo3_Diying_6: 820737044293680916
+      Enemigo3_Diying_7: 5048982353261436184
+      Enemigo3_Diying_8: 3313551947967592120
+      Enemigo3_Diying_9: 6718296495325756432
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

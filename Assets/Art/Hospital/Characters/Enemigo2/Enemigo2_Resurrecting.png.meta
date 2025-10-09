@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: fa6d6611d5ac07f4c872dfa3f3845d0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4751536300041613462
+    second: Enemigo2_Resurrecting_0
+  - first:
+      213: -2304995742266242937
+    second: Enemigo2_Resurrecting_1
+  - first:
+      213: -1269598901107136827
+    second: Enemigo2_Resurrecting_2
+  - first:
+      213: 8574210446849747251
+    second: Enemigo2_Resurrecting_3
+  - first:
+      213: -5714136044177150417
+    second: Enemigo2_Resurrecting_4
+  - first:
+      213: 7686738065012529008
+    second: Enemigo2_Resurrecting_5
+  - first:
+      213: -3998432460075376185
+    second: Enemigo2_Resurrecting_6
+  - first:
+      213: -4771150193032612794
+    second: Enemigo2_Resurrecting_7
+  - first:
+      213: -877448703498056190
+    second: Enemigo2_Resurrecting_8
+  - first:
+      213: -6422620232439780785
+    second: Enemigo2_Resurrecting_9
+  - first:
+      213: 312564352597012021
+    second: Enemigo2_Resurrecting_10
+  - first:
+      213: 4641287356566594555
+    second: Enemigo2_Resurrecting_11
+  - first:
+      213: -7387572604892088642
+    second: Enemigo2_Resurrecting_12
+  - first:
+      213: -8191302302857056191
+    second: Enemigo2_Resurrecting_13
+  - first:
+      213: 3178187560890408076
+    second: Enemigo2_Resurrecting_14
+  - first:
+      213: -7944628759573153495
+    second: Enemigo2_Resurrecting_15
+  - first:
+      213: 3432981275665673782
+    second: Enemigo2_Resurrecting_16
+  - first:
+      213: 5137987522409737179
+    second: Enemigo2_Resurrecting_17
+  - first:
+      213: 7388138439954017165
+    second: Enemigo2_Resurrecting_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 86
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f45aae8e62f0eb0800000000000000
+      internalID: -4751536300041613462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 86
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788ce65b5920300e0800000000000000
+      internalID: -2304995742266242937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 88
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6684ca68a716ee0800000000000000
+      internalID: -1269598901107136827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 87
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3392ce929f6bdf670800000000000000
+      internalID: 8574210446849747251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 88
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ea098ea8f43b0b0800000000000000
+      internalID: -5714136044177150417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 86
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0779b864b87ccaa60800000000000000
+      internalID: 7686738065012529008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 60
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1e0d6bcd6b288c0800000000000000
+      internalID: -3998432460075376185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 60
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64431469d2879cdb0800000000000000
+      internalID: -4771150193032612794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 62
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e0f579d0da2d3f0800000000000000
+      internalID: -877448703498056190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 64
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4aa0365de44ed6a0800000000000000
+      internalID: -6422620232439780785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 62
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eaef56f93765400800000000000000
+      internalID: 312564352597012021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 27
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3e9ac924a296040800000000000000
+      internalID: 4641287356566594555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 28
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6fffc5bd11a7990800000000000000
+      internalID: -7387572604892088642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 29
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140bd5674f5a25e80800000000000000
+      internalID: -8191302302857056191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 29
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c10747fb03b1c20800000000000000
+      internalID: 3178187560890408076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9293a415c320fb190800000000000000
+      internalID: -7944628759573153495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63eae90184664af20800000000000000
+      internalID: 3432981275665673782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_17
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb2f9ded6ccd4740800000000000000
+      internalID: 5137987522409737179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Resurrecting_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b2ed064c0f78660800000000000000
+      internalID: 7388138439954017165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemigo2_Resurrecting_0: -4751536300041613462
+      Enemigo2_Resurrecting_1: -2304995742266242937
+      Enemigo2_Resurrecting_10: 312564352597012021
+      Enemigo2_Resurrecting_11: 4641287356566594555
+      Enemigo2_Resurrecting_12: -7387572604892088642
+      Enemigo2_Resurrecting_13: -8191302302857056191
+      Enemigo2_Resurrecting_14: 3178187560890408076
+      Enemigo2_Resurrecting_15: -7944628759573153495
+      Enemigo2_Resurrecting_16: 3432981275665673782
+      Enemigo2_Resurrecting_17: 5137987522409737179
+      Enemigo2_Resurrecting_18: 7388138439954017165
+      Enemigo2_Resurrecting_2: -1269598901107136827
+      Enemigo2_Resurrecting_3: 8574210446849747251
+      Enemigo2_Resurrecting_4: -5714136044177150417
+      Enemigo2_Resurrecting_5: 7686738065012529008
+      Enemigo2_Resurrecting_6: -3998432460075376185
+      Enemigo2_Resurrecting_7: -4771150193032612794
+      Enemigo2_Resurrecting_8: -877448703498056190
+      Enemigo2_Resurrecting_9: -6422620232439780785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 066aa5a930ca36945b7d963684ea0bc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7936411840798864350
+    second: TileSheet-MachineRoom_0
+  - first:
+      213: -5749927340240241909
+    second: TileSheet-MachineRoom_1
+  - first:
+      213: -515989104850125400
+    second: TileSheet-MachineRoom_2
+  - first:
+      213: 4541807943057263488
+    second: TileSheet-MachineRoom_3
+  - first:
+      213: -3416292742720549260
+    second: TileSheet-MachineRoom_4
+  - first:
+      213: 7300324489490673237
+    second: TileSheet-MachineRoom_5
+  - first:
+      213: 709066716296106277
+    second: TileSheet-MachineRoom_6
+  - first:
+      213: 6527140699660245556
+    second: TileSheet-MachineRoom_7
+  - first:
+      213: -4320156244615417146
+    second: TileSheet-MachineRoom_8
+  - first:
+      213: -4178887188103883533
+    second: TileSheet-MachineRoom_9
+  - first:
+      213: 4186465553474234804
+    second: TileSheet-MachineRoom_10
+  - first:
+      213: 4141821656272789564
+    second: TileSheet-MachineRoom_11
+  - first:
+      213: -4615060973781756111
+    second: TileSheet-MachineRoom_12
+  - first:
+      213: 602882370320217635
+    second: TileSheet-MachineRoom_13
+  - first:
+      213: 2159108333405698962
+    second: TileSheet-MachineRoom_14
+  - first:
+      213: 1760126708716991097
+    second: TileSheet-MachineRoom_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileSheet-MachineRoom_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 39
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed33502358cc32e60800000000000000
+      internalID: 7936411840798864350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-MachineRoom_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 56
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b7ca86c872430b0800000000000000
+      internalID: -5749927340240241909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-MachineRoom_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 81
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adbf6994a6d6d8f0800000000000000
+      internalID: -515989104850125400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-MachineRoom_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bc9fbb24eb70f30800000000000000
+      internalID: 4541807943057263488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-MachineRoom_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 64
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e856dc9d3e690d0800000000000000
+      internalID: -3416292742720549260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-MachineRoom_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 59
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e2d25c176ff4560800000000000000
+      internalID: 7300324489490673237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-MachineRoom_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 25
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521d1e2fb6c17d900800000000000000
+      internalID: 709066716296106277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-MachineRoom_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 26
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a5e3252ef059a50800000000000000
+      internalID: 6527140699660245556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-MachineRoom_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 26
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c23381e8c8bb04c0800000000000000
+      internalID: -4320156244615417146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-MachineRoom_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 25
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f413ac3e3c9106c0800000000000000
+      internalID: -4178887188103883533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-MachineRoom_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 22
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9ad337d30591a30800000000000000
+      internalID: 4186465553474234804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-MachineRoom_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 10
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30e8212ad4ba7930800000000000000
+      internalID: 4141821656272789564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-MachineRoom_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 12
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13758f8fe7204ffb0800000000000000
+      internalID: -4615060973781756111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-MachineRoom_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3263844525edd5800800000000000000
+      internalID: 602882370320217635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-MachineRoom_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b7b3cf691b6fd10800000000000000
+      internalID: 2159108333405698962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-MachineRoom_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972f0c08ae93d6810800000000000000
+      internalID: 1760126708716991097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TileSheet-MachineRoom_0: 7936411840798864350
+      TileSheet-MachineRoom_1: -5749927340240241909
+      TileSheet-MachineRoom_10: 4186465553474234804
+      TileSheet-MachineRoom_11: 4141821656272789564
+      TileSheet-MachineRoom_12: -4615060973781756111
+      TileSheet-MachineRoom_13: 602882370320217635
+      TileSheet-MachineRoom_14: 2159108333405698962
+      TileSheet-MachineRoom_15: 1760126708716991097
+      TileSheet-MachineRoom_2: -515989104850125400
+      TileSheet-MachineRoom_3: 4541807943057263488
+      TileSheet-MachineRoom_4: -3416292742720549260
+      TileSheet-MachineRoom_5: 7300324489490673237
+      TileSheet-MachineRoom_6: 709066716296106277
+      TileSheet-MachineRoom_7: 6527140699660245556
+      TileSheet-MachineRoom_8: -4320156244615417146
+      TileSheet-MachineRoom_9: -4178887188103883533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

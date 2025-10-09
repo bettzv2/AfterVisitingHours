@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: e96f5e8feb687894e8b0b96e3cb2fee6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4618663225346571228
+    second: TileSheet-StoreHouse_0
+  - first:
+      213: 6100719713329592399
+    second: TileSheet-StoreHouse_1
+  - first:
+      213: 7574180966832387912
+    second: TileSheet-StoreHouse_2
+  - first:
+      213: 7233167288604062449
+    second: TileSheet-StoreHouse_3
+  - first:
+      213: 8537251086479704107
+    second: TileSheet-StoreHouse_4
+  - first:
+      213: 378151535241439185
+    second: TileSheet-StoreHouse_5
+  - first:
+      213: -2511245146054989852
+    second: TileSheet-StoreHouse_6
+  - first:
+      213: -5066986138445720944
+    second: TileSheet-StoreHouse_7
+  - first:
+      213: 5464324516721932358
+    second: TileSheet-StoreHouse_8
+  - first:
+      213: -7461588406393334210
+    second: TileSheet-StoreHouse_9
+  - first:
+      213: 4870509064725771173
+    second: TileSheet-StoreHouse_10
+  - first:
+      213: -6054567779657404198
+    second: TileSheet-StoreHouse_11
+  - first:
+      213: 8237421594701723680
+    second: TileSheet-StoreHouse_12
+  - first:
+      213: -1673991252057121787
+    second: TileSheet-StoreHouse_13
+  - first:
+      213: 2243940173606820499
+    second: TileSheet-StoreHouse_14
+  - first:
+      213: 1304857332489763125
+    second: TileSheet-StoreHouse_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileSheet-StoreHouse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb31f39bb9c81040800000000000000
+      internalID: 4618663225346571228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-StoreHouse_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 109
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48bb3b914c1aa450800000000000000
+      internalID: 6100719713329592399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-StoreHouse_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 112
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847b198a575ec1960800000000000000
+      internalID: 7574180966832387912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-StoreHouse_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f27836735f516460800000000000000
+      internalID: 7233167288604062449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-StoreHouse_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 143
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20c0ff71a86a7670800000000000000
+      internalID: 8537251086479704107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-StoreHouse_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7a55951d67f3500800000000000000
+      internalID: 378151535241439185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-StoreHouse_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7e77548d3462dd0800000000000000
+      internalID: -2511245146054989852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-StoreHouse_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 123
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0925d1004f27ea9b0800000000000000
+      internalID: -5066986138445720944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-StoreHouse_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 123
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6483bac523e25db40800000000000000
+      internalID: 5464324516721932358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-StoreHouse_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 59
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3690c8a0ec137890800000000000000
+      internalID: -7461588406393334210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-StoreHouse_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 59
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3bc467036879340800000000000000
+      internalID: 4870509064725771173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-StoreHouse_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 86
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0bef0deaad9fba0800000000000000
+      internalID: -6054567779657404198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-StoreHouse_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 86
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028f351fb43315270800000000000000
+      internalID: 8237421594701723680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-StoreHouse_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 86
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c160053d9c4c8e0800000000000000
+      internalID: -1673991252057121787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-StoreHouse_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 40
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a1011f2b3142f10800000000000000
+      internalID: 2243940173606820499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-StoreHouse_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 20
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539bd9994d8cb1210800000000000000
+      internalID: 1304857332489763125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TileSheet-StoreHouse_0: 4618663225346571228
+      TileSheet-StoreHouse_1: 6100719713329592399
+      TileSheet-StoreHouse_10: 4870509064725771173
+      TileSheet-StoreHouse_11: -6054567779657404198
+      TileSheet-StoreHouse_12: 8237421594701723680
+      TileSheet-StoreHouse_13: -1673991252057121787
+      TileSheet-StoreHouse_14: 2243940173606820499
+      TileSheet-StoreHouse_15: 1304857332489763125
+      TileSheet-StoreHouse_2: 7574180966832387912
+      TileSheet-StoreHouse_3: 7233167288604062449
+      TileSheet-StoreHouse_4: 8537251086479704107
+      TileSheet-StoreHouse_5: 378151535241439185
+      TileSheet-StoreHouse_6: -2511245146054989852
+      TileSheet-StoreHouse_7: -5066986138445720944
+      TileSheet-StoreHouse_8: 5464324516721932358
+      TileSheet-StoreHouse_9: -7461588406393334210
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

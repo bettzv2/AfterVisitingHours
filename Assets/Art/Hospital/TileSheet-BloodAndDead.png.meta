@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 6145fc0f31e3dc341bae6f83e66e777d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5227150243319898587
+    second: TileSheet-BloodAndDead_0
+  - first:
+      213: -7347025746343692269
+    second: TileSheet-BloodAndDead_1
+  - first:
+      213: -7589119616054037601
+    second: TileSheet-BloodAndDead_2
+  - first:
+      213: -979854975773617218
+    second: TileSheet-BloodAndDead_3
+  - first:
+      213: -7617881044418946887
+    second: TileSheet-BloodAndDead_4
+  - first:
+      213: 4710389621915158419
+    second: TileSheet-BloodAndDead_5
+  - first:
+      213: 5728540792258028566
+    second: TileSheet-BloodAndDead_6
+  - first:
+      213: 1574729607795755752
+    second: TileSheet-BloodAndDead_7
+  - first:
+      213: 8182198099333545453
+    second: TileSheet-BloodAndDead_8
+  - first:
+      213: -3528105746357508692
+    second: TileSheet-BloodAndDead_9
+  - first:
+      213: 3315551303454560709
+    second: TileSheet-BloodAndDead_10
+  - first:
+      213: 5060170829856291278
+    second: TileSheet-BloodAndDead_11
+  - first:
+      213: 8176486282563857569
+    second: TileSheet-BloodAndDead_12
+  - first:
+      213: 5900326166672128936
+    second: TileSheet-BloodAndDead_13
+  - first:
+      213: 2050788100713021627
+    second: TileSheet-BloodAndDead_14
+  - first:
+      213: 5744789809345600758
+    second: TileSheet-BloodAndDead_15
+  - first:
+      213: 1527853934443039367
+    second: TileSheet-BloodAndDead_16
+  - first:
+      213: -8368060562143161480
+    second: TileSheet-BloodAndDead_17
+  - first:
+      213: -2751634599708301204
+    second: TileSheet-BloodAndDead_18
+  - first:
+      213: 4909424671723938318
+    second: TileSheet-BloodAndDead_19
+  - first:
+      213: 4896144641371333733
+    second: TileSheet-BloodAndDead_20
+  - first:
+      213: -6951897909559259593
+    second: TileSheet-BloodAndDead_21
+  - first:
+      213: 7105838406303131480
+    second: TileSheet-BloodAndDead_22
+  - first:
+      213: 2570564037638902223
+    second: TileSheet-BloodAndDead_23
+  - first:
+      213: -4998016432387307251
+    second: TileSheet-BloodAndDead_24
+  - first:
+      213: 575871260617125510
+    second: TileSheet-BloodAndDead_25
+  - first:
+      213: 4113636974660451537
+    second: TileSheet-BloodAndDead_26
+  - first:
+      213: -4147285523839882291
+    second: TileSheet-BloodAndDead_27
+  - first:
+      213: -6633376446085469519
+    second: TileSheet-BloodAndDead_28
+  - first:
+      213: -3534280224616278473
+    second: TileSheet-BloodAndDead_29
+  - first:
+      213: -2577198443482220914
+    second: TileSheet-BloodAndDead_30
+  - first:
+      213: -7308635377720225995
+    second: TileSheet-BloodAndDead_31
+  - first:
+      213: -689450192937395872
+    second: TileSheet-BloodAndDead_32
+  - first:
+      213: -5271602540297358341
+    second: TileSheet-BloodAndDead_33
+  - first:
+      213: 5021951846924990233
+    second: TileSheet-BloodAndDead_34
+  - first:
+      213: 2646353769038095897
+    second: TileSheet-BloodAndDead_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 82
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e125f5c8e6577b0800000000000000
+      internalID: -5227150243319898587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 86
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318f889820f1a0a90800000000000000
+      internalID: -7347025746343692269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 100
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9376270be70ea690800000000000000
+      internalID: -7589119616054037601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 82
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb35d9d471bd662f0800000000000000
+      internalID: -979854975773617218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 101
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b81a362d89d74690800000000000000
+      internalID: -7617881044418946887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 101
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39780f7876aae5140800000000000000
+      internalID: 4710389621915158419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 82
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614efdbdf7ddf7f40800000000000000
+      internalID: 5728540792258028566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 86
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eac4f92c309ad510800000000000000
+      internalID: 1574729607795755752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 83
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedf6a8f1d10d8170800000000000000
+      internalID: 8182198099333545453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 89
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5a8523486a90fc0800000000000000
+      internalID: -3528105746357508692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 79
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c11efc0854330e20800000000000000
+      internalID: 3315551303454560709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 59
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9b0605f86593640800000000000000
+      internalID: 5060170829856291278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 61
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aca21ff3f6b87170800000000000000
+      internalID: 8176486282563857569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 59
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab3f67236b22e150800000000000000
+      internalID: 5900326166672128936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 64
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0099c79ecd57c10800000000000000
+      internalID: 2050788100713021627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 64
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc1457f4e799bf40800000000000000
+      internalID: 5744789809345600758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 66
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a0927fe07043510800000000000000
+      internalID: 1527853934443039367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 61
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873508e214daedb80800000000000000
+      internalID: -8368060562143161480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_18
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 67
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6866bc09ea30d9d0800000000000000
+      internalID: -2751634599708301204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 66
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02e4a94ab7c12440800000000000000
+      internalID: 4909424671723938318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 22
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564eed54c9992f340800000000000000
+      internalID: 4896144641371333733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 40
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e80f91fa5e58f90800000000000000
+      internalID: -6951897909559259593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 26
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857a607d1620d9260800000000000000
+      internalID: 7105838406303131480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 22
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc15cdf6f5a7ca320800000000000000
+      internalID: 2570564037638902223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 25
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d094dfd098a73aab0800000000000000
+      internalID: -4998016432387307251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 29
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ea0754cd7edf700800000000000000
+      internalID: 575871260617125510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 22
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc7c819803961930800000000000000
+      internalID: 4113636974660451537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb67611ac1e176c0800000000000000
+      internalID: -4147285523839882291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bae1a5744381f3a0800000000000000
+      internalID: -6633376446085469519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_29
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7361f037cd6b3fec0800000000000000
+      internalID: -3534280224616278473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 6
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e867d849ba3fb3cd0800000000000000
+      internalID: -2577198443482220914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f0226c8d2829a90800000000000000
+      internalID: -7308635377720225995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_32
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06954afc3b49e66f0800000000000000
+      internalID: -689450192937395872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_33
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 9
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf377847b6187d6b0800000000000000
+      internalID: -5271602540297358341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_34
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917b41be89e81b540800000000000000
+      internalID: 5021951846924990233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-BloodAndDead_35
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 6
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91628816bbcb9b420800000000000000
+      internalID: 2646353769038095897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TileSheet-BloodAndDead_0: -5227150243319898587
+      TileSheet-BloodAndDead_1: -7347025746343692269
+      TileSheet-BloodAndDead_10: 3315551303454560709
+      TileSheet-BloodAndDead_11: 5060170829856291278
+      TileSheet-BloodAndDead_12: 8176486282563857569
+      TileSheet-BloodAndDead_13: 5900326166672128936
+      TileSheet-BloodAndDead_14: 2050788100713021627
+      TileSheet-BloodAndDead_15: 5744789809345600758
+      TileSheet-BloodAndDead_16: 1527853934443039367
+      TileSheet-BloodAndDead_17: -8368060562143161480
+      TileSheet-BloodAndDead_18: -2751634599708301204
+      TileSheet-BloodAndDead_19: 4909424671723938318
+      TileSheet-BloodAndDead_2: -7589119616054037601
+      TileSheet-BloodAndDead_20: 4896144641371333733
+      TileSheet-BloodAndDead_21: -6951897909559259593
+      TileSheet-BloodAndDead_22: 7105838406303131480
+      TileSheet-BloodAndDead_23: 2570564037638902223
+      TileSheet-BloodAndDead_24: -4998016432387307251
+      TileSheet-BloodAndDead_25: 575871260617125510
+      TileSheet-BloodAndDead_26: 4113636974660451537
+      TileSheet-BloodAndDead_27: -4147285523839882291
+      TileSheet-BloodAndDead_28: -6633376446085469519
+      TileSheet-BloodAndDead_29: -3534280224616278473
+      TileSheet-BloodAndDead_3: -979854975773617218
+      TileSheet-BloodAndDead_30: -2577198443482220914
+      TileSheet-BloodAndDead_31: -7308635377720225995
+      TileSheet-BloodAndDead_32: -689450192937395872
+      TileSheet-BloodAndDead_33: -5271602540297358341
+      TileSheet-BloodAndDead_34: 5021951846924990233
+      TileSheet-BloodAndDead_35: 2646353769038095897
+      TileSheet-BloodAndDead_4: -7617881044418946887
+      TileSheet-BloodAndDead_5: 4710389621915158419
+      TileSheet-BloodAndDead_6: 5728540792258028566
+      TileSheet-BloodAndDead_7: 1574729607795755752
+      TileSheet-BloodAndDead_8: 8182198099333545453
+      TileSheet-BloodAndDead_9: -3528105746357508692
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

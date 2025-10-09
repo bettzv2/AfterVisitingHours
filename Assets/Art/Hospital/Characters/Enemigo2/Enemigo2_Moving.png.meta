@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: a1bc9024c233132459e2e8c29bf48128
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1376197761725476292
+    second: Enemigo2_Moving_0
+  - first:
+      213: 4145627743069067818
+    second: Enemigo2_Moving_1
+  - first:
+      213: -205203409048694979
+    second: Enemigo2_Moving_2
+  - first:
+      213: -3663600445871634162
+    second: Enemigo2_Moving_3
+  - first:
+      213: -8437034595437654304
+    second: Enemigo2_Moving_4
+  - first:
+      213: 706983458760221706
+    second: Enemigo2_Moving_5
+  - first:
+      213: -2239943688344077858
+    second: Enemigo2_Moving_6
+  - first:
+      213: 8154122580401714964
+    second: Enemigo2_Moving_7
+  - first:
+      213: -8726354448138201857
+    second: Enemigo2_Moving_8
+  - first:
+      213: 3009224495147201688
+    second: Enemigo2_Moving_9
+  - first:
+      213: -626905334065137520
+    second: Enemigo2_Moving_10
+  - first:
+      213: 4648687417108685417
+    second: Enemigo2_Moving_11
+  - first:
+      213: -3516866962734578852
+    second: Enemigo2_Moving_12
+  - first:
+      213: -6502495516912298051
+    second: Enemigo2_Moving_13
+  - first:
+      213: -4459021094580747606
+    second: Enemigo2_Moving_14
+  - first:
+      213: 3927699060417417468
+    second: Enemigo2_Moving_15
+  - first:
+      213: 3237441550635227555
+    second: Enemigo2_Moving_16
+  - first:
+      213: -6898129464702757067
+    second: Enemigo2_Moving_17
+  - first:
+      213: 3640760115119199935
+    second: Enemigo2_Moving_18
+  - first:
+      213: 1647433724328063441
+    second: Enemigo2_Moving_19
+  - first:
+      213: -1651182067089462621
+    second: Enemigo2_Moving_20
+  - first:
+      213: -8494078774926805098
+    second: Enemigo2_Moving_21
+  - first:
+      213: 6784632338868483050
+    second: Enemigo2_Moving_22
+  - first:
+      213: -9020392831764195498
+    second: Enemigo2_Moving_23
+  - first:
+      213: 5288045214550408660
+    second: Enemigo2_Moving_24
+  - first:
+      213: 3736501976382346032
+    second: Enemigo2_Moving_25
+  - first:
+      213: -6424090897867379067
+    second: Enemigo2_Moving_26
+  - first:
+      213: -3499666349345637464
+    second: Enemigo2_Moving_27
+  - first:
+      213: -5114984826011408174
+    second: Enemigo2_Moving_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemigo2_Moving_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 83
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cda558a29c391310800000000000000
+      internalID: 1376197761725476292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 83
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ad2a4c77a388930800000000000000
+      internalID: 4145627743069067818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 45
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f04f03698f62df0800000000000000
+      internalID: -205203409048694979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 83
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09cbd81ec6482dc0800000000000000
+      internalID: -3663600445871634162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 55
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eec14d9cb1a9ea80800000000000000
+      internalID: -8437034595437654304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 84
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04ea71c5b5bfc900800000000000000
+      internalID: 706983458760221706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 84
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed97f5b451f1ae0e0800000000000000
+      internalID: -2239943688344077858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 56
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417f5d3d843492170800000000000000
+      internalID: 8154122580401714964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 84
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff492961dd2c5e680800000000000000
+      internalID: -8726354448138201857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 56
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89437aa1cb9e2c920800000000000000
+      internalID: 3009224495147201688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_10
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 84
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098ff3f8be8cc47f0800000000000000
+      internalID: -626905334065137520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 56
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96267987394738040800000000000000
+      internalID: 4648687417108685417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 55
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5306eb6124913fc0800000000000000
+      internalID: -3516866962734578852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 55
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db75fd077ce72c5a0800000000000000
+      internalID: -6502495516912298051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 56
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa28a8b70ff5e12c0800000000000000
+      internalID: -4459021094580747606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 28
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0d0d05c7df18630800000000000000
+      internalID: 3927699060417417468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 27
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9d3b600f3bdec20800000000000000
+      internalID: 3237441550635227555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 27
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5379cb9bccbe440a0800000000000000
+      internalID: -6898129464702757067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_18
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 27
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6171ef804968230800000000000000
+      internalID: 3640760115119199935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 28
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1b2996e3cdcd610800000000000000
+      internalID: 1647433724328063441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 28
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa23a788a2d519e0800000000000000
+      internalID: -1651182067089462621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_21
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6977d469b58fe1a80800000000000000
+      internalID: -8494078774926805098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_22
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 28
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae332e96a2bd72e50800000000000000
+      internalID: 6784632338868483050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6571738f28021d280800000000000000
+      internalID: -9020392831764195498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_24
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd3b79fa19e26940800000000000000
+      internalID: 5288045214550408660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03390dc20c8bad330800000000000000
+      internalID: 3736501976382346032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_26
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e6bcb5d5b09d6a0800000000000000
+      internalID: -6424090897867379067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab7dde4fffae6fc0800000000000000
+      internalID: -3499666349345637464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Moving_28
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8a31ea66ce309b0800000000000000
+      internalID: -5114984826011408174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemigo2_Moving_0: 1376197761725476292
+      Enemigo2_Moving_1: 4145627743069067818
+      Enemigo2_Moving_10: -626905334065137520
+      Enemigo2_Moving_11: 4648687417108685417
+      Enemigo2_Moving_12: -3516866962734578852
+      Enemigo2_Moving_13: -6502495516912298051
+      Enemigo2_Moving_14: -4459021094580747606
+      Enemigo2_Moving_15: 3927699060417417468
+      Enemigo2_Moving_16: 3237441550635227555
+      Enemigo2_Moving_17: -6898129464702757067
+      Enemigo2_Moving_18: 3640760115119199935
+      Enemigo2_Moving_19: 1647433724328063441
+      Enemigo2_Moving_2: -205203409048694979
+      Enemigo2_Moving_20: -1651182067089462621
+      Enemigo2_Moving_21: -8494078774926805098
+      Enemigo2_Moving_22: 6784632338868483050
+      Enemigo2_Moving_23: -9020392831764195498
+      Enemigo2_Moving_24: 5288045214550408660
+      Enemigo2_Moving_25: 3736501976382346032
+      Enemigo2_Moving_26: -6424090897867379067
+      Enemigo2_Moving_27: -3499666349345637464
+      Enemigo2_Moving_28: -5114984826011408174
+      Enemigo2_Moving_3: -3663600445871634162
+      Enemigo2_Moving_4: -8437034595437654304
+      Enemigo2_Moving_5: 706983458760221706
+      Enemigo2_Moving_6: -2239943688344077858
+      Enemigo2_Moving_7: 8154122580401714964
+      Enemigo2_Moving_8: -8726354448138201857
+      Enemigo2_Moving_9: 3009224495147201688
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

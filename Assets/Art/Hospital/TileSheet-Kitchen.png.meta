@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 89f2ff9294e47e641848442f08d86939
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 91408166837260346
+    second: TileSheet-Kitchen_0
+  - first:
+      213: -7607715591505405033
+    second: TileSheet-Kitchen_1
+  - first:
+      213: -7221631983848883315
+    second: TileSheet-Kitchen_2
+  - first:
+      213: 1017351595748183365
+    second: TileSheet-Kitchen_3
+  - first:
+      213: 9155885954935715065
+    second: TileSheet-Kitchen_4
+  - first:
+      213: -2292408087131051995
+    second: TileSheet-Kitchen_5
+  - first:
+      213: 7026055804622935481
+    second: TileSheet-Kitchen_6
+  - first:
+      213: 2083753531193102882
+    second: TileSheet-Kitchen_7
+  - first:
+      213: 2242551501439538912
+    second: TileSheet-Kitchen_8
+  - first:
+      213: 2331009114903407669
+    second: TileSheet-Kitchen_9
+  - first:
+      213: -7445398906001380552
+    second: TileSheet-Kitchen_10
+  - first:
+      213: -4942309294650010057
+    second: TileSheet-Kitchen_11
+  - first:
+      213: -3572956770685492287
+    second: TileSheet-Kitchen_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileSheet-Kitchen_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 152
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3097e15e3fb44100800000000000000
+      internalID: 91408166837260346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Kitchen_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 169
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b9e181af6fb6690800000000000000
+      internalID: -7607715591505405033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Kitchen_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 130
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b7618f8fb97cb90800000000000000
+      internalID: -7221631983848883315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Kitchen_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 130
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d4f3cd2eb5e1e00800000000000000
+      internalID: 1017351595748183365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Kitchen_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 105
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f47eeb14cd301f70800000000000000
+      internalID: 9155885954935715065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Kitchen_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 129
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528225e8dfabf20e0800000000000000
+      internalID: -2292408087131051995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Kitchen_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 91
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b51f965780918160800000000000000
+      internalID: 7026055804622935481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Kitchen_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 88
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2221b32ebcafaec10800000000000000
+      internalID: 2083753531193102882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Kitchen_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 84
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e692d185b42f1f10800000000000000
+      internalID: 2242551501439538912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Kitchen_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ce3069078695020800000000000000
+      internalID: 2331009114903407669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Kitchen_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 31
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ba4b47421aca890800000000000000
+      internalID: -7445398906001380552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Kitchen_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 47
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736564ac1e3696bb0800000000000000
+      internalID: -4942309294650010057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSheet-Kitchen_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 47
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3e6755fbe4a6ec0800000000000000
+      internalID: -3572956770685492287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TileSheet-Kitchen_0: 91408166837260346
+      TileSheet-Kitchen_1: -7607715591505405033
+      TileSheet-Kitchen_10: -7445398906001380552
+      TileSheet-Kitchen_11: -4942309294650010057
+      TileSheet-Kitchen_12: -3572956770685492287
+      TileSheet-Kitchen_2: -7221631983848883315
+      TileSheet-Kitchen_3: 1017351595748183365
+      TileSheet-Kitchen_4: 9155885954935715065
+      TileSheet-Kitchen_5: -2292408087131051995
+      TileSheet-Kitchen_6: 7026055804622935481
+      TileSheet-Kitchen_7: 2083753531193102882
+      TileSheet-Kitchen_8: 2242551501439538912
+      TileSheet-Kitchen_9: 2331009114903407669
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
