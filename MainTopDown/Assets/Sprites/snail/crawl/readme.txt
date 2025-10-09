@@ -1,0 +1,1 @@
+set animation speed to 8 fps
