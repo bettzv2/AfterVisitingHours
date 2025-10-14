@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 0068df03a20c9b74d9adee53f46c2280
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4480978949471236053
+    second: Enemigo2_Attacking_0
+  - first:
+      213: 2639035754286197497
+    second: Enemigo2_Attacking_1
+  - first:
+      213: 5540534002287768130
+    second: Enemigo2_Attacking_2
+  - first:
+      213: 6602230935008810090
+    second: Enemigo2_Attacking_3
+  - first:
+      213: -7630545048728769433
+    second: Enemigo2_Attacking_4
+  - first:
+      213: 2406065294424434904
+    second: Enemigo2_Attacking_5
+  - first:
+      213: 2214024405461762870
+    second: Enemigo2_Attacking_6
+  - first:
+      213: -266787297595764025
+    second: Enemigo2_Attacking_7
+  - first:
+      213: -298827802635552034
+    second: Enemigo2_Attacking_8
+  - first:
+      213: -7994334596259876105
+    second: Enemigo2_Attacking_9
+  - first:
+      213: -4673324391804118175
+    second: Enemigo2_Attacking_10
+  - first:
+      213: 2328661768388027198
+    second: Enemigo2_Attacking_11
+  - first:
+      213: -8264232384677304249
+    second: Enemigo2_Attacking_12
+  - first:
+      213: -741462479800035844
+    second: Enemigo2_Attacking_13
+  - first:
+      213: -7320984672996795064
+    second: Enemigo2_Attacking_14
+  - first:
+      213: -8362054364476857947
+    second: Enemigo2_Attacking_15
+  - first:
+      213: -6221617611549330766
+    second: Enemigo2_Attacking_16
+  - first:
+      213: -2295598827938853515
+    second: Enemigo2_Attacking_17
+  - first:
+      213: 920083157596040698
+    second: Enemigo2_Attacking_18
+  - first:
+      213: -2861210389737593242
+    second: Enemigo2_Attacking_19
+  - first:
+      213: -1111869025270022999
+    second: Enemigo2_Attacking_20
+  - first:
+      213: -8449649286256419238
+    second: Enemigo2_Attacking_21
+  - first:
+      213: -5015317042527797347
+    second: Enemigo2_Attacking_22
+  - first:
+      213: 9142822158627560445
+    second: Enemigo2_Attacking_23
+  - first:
+      213: -1136774502130318474
+    second: Enemigo2_Attacking_24
+  - first:
+      213: -1871292302895955387
+    second: Enemigo2_Attacking_25
+  - first:
+      213: 4564323937973457755
+    second: Enemigo2_Attacking_26
+  - first:
+      213: 2100024974773115237
+    second: Enemigo2_Attacking_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 83
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2093cef26d50d1c0800000000000000
+      internalID: -4480978949471236053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 55
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faa8cb490dbf9420800000000000000
+      internalID: 2639035754286197497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 83
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242f550f15ee3ec40800000000000000
+      internalID: 5540534002287768130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 83
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a649b462e06df9b50800000000000000
+      internalID: 6602230935008810090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 83
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ce7efd4bbda1690800000000000000
+      internalID: -7630545048728769433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 83
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8609c23af046120800000000000000
+      internalID: 2406065294424434904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 83
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6330893677bc9be10800000000000000
+      internalID: 2214024405461762870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 83
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2d738cd5e2c4cf0800000000000000
+      internalID: -266787297595764025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 55
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edab5ee52b95adbf0800000000000000
+      internalID: -298827802635552034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 55
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2705e5a0b6e0190800000000000000
+      internalID: -7994334596259876105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 55
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bd85ad934052fb0800000000000000
+      internalID: -4673324391804118175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 55
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e332dc26a81115020800000000000000
+      internalID: 2328661768388027198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_12
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 55
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748a7029e6c8f4d80800000000000000
+      internalID: -8264232384677304249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 55
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf51d359dcbc5b5f0800000000000000
+      internalID: -741462479800035844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 27
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d52f76a33a66a90800000000000000
+      internalID: -7320984672996795064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 27
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a12adc0cd304fb80800000000000000
+      internalID: -8362054364476857947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 27
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2b94feebf58a9a0800000000000000
+      internalID: -6221617611549330766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 27
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dc6e157056420e0800000000000000
+      internalID: -2295598827938853515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 27
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afde45cc1cac4cc00800000000000000
+      internalID: 920083157596040698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 27
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666a8045f40fa48d0800000000000000
+      internalID: -2861210389737593242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_20
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 27
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac35003309d190f0800000000000000
+      internalID: -1111869025270022999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e9d080eb0dcba80800000000000000
+      internalID: -8449649286256419238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ffa2cd8b3066ab0800000000000000
+      internalID: -5015317042527797347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbd0910054d1ee70800000000000000
+      internalID: 9142822158627560445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6730dcafc9d5930f0800000000000000
+      internalID: -1136774502130318474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 0
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542c6f6a095d706e0800000000000000
+      internalID: -1871292302895955387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5358b2507cb75f30800000000000000
+      internalID: 4564323937973457755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo2_Attacking_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569dcc09699c42d10800000000000000
+      internalID: 2100024974773115237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemigo2_Attacking_0: -4480978949471236053
+      Enemigo2_Attacking_1: 2639035754286197497
+      Enemigo2_Attacking_10: -4673324391804118175
+      Enemigo2_Attacking_11: 2328661768388027198
+      Enemigo2_Attacking_12: -8264232384677304249
+      Enemigo2_Attacking_13: -741462479800035844
+      Enemigo2_Attacking_14: -7320984672996795064
+      Enemigo2_Attacking_15: -8362054364476857947
+      Enemigo2_Attacking_16: -6221617611549330766
+      Enemigo2_Attacking_17: -2295598827938853515
+      Enemigo2_Attacking_18: 920083157596040698
+      Enemigo2_Attacking_19: -2861210389737593242
+      Enemigo2_Attacking_2: 5540534002287768130
+      Enemigo2_Attacking_20: -1111869025270022999
+      Enemigo2_Attacking_21: -8449649286256419238
+      Enemigo2_Attacking_22: -5015317042527797347
+      Enemigo2_Attacking_23: 9142822158627560445
+      Enemigo2_Attacking_24: -1136774502130318474
+      Enemigo2_Attacking_25: -1871292302895955387
+      Enemigo2_Attacking_26: 4564323937973457755
+      Enemigo2_Attacking_27: 2100024974773115237
+      Enemigo2_Attacking_3: 6602230935008810090
+      Enemigo2_Attacking_4: -7630545048728769433
+      Enemigo2_Attacking_5: 2406065294424434904
+      Enemigo2_Attacking_6: 2214024405461762870
+      Enemigo2_Attacking_7: -266787297595764025
+      Enemigo2_Attacking_8: -298827802635552034
+      Enemigo2_Attacking_9: -7994334596259876105
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

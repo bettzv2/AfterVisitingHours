@@ -20,6 +20,7 @@ public class PlayerAttack : MonoBehaviour
             Melee.SetActive(true);
             isAttacking = true;
             playerMovement.PerformAttack();
+            SoundEffectManager.Play("PlayerHit");
         }
     }
 

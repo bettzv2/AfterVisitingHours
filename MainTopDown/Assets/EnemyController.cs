@@ -23,6 +23,12 @@ public class EnemyController : MonoBehaviour
     private bool isWaiting;
     private Animator animator;
     public bool dead = false;
+    private bool playingIdle = false;
+    [SerializeField] private string playIdle;
+    [SerializeField] private string playDeath;
+    public float idleSpeed = 5f;
+    
+
 
     void Start()
     {
@@ -43,6 +49,7 @@ public class EnemyController : MonoBehaviour
         if (MenuController.isPaused || isWaiting)
         {
             animator.SetBool("isWalking", false);
+            StopIdle();
             //animator.SetFloat("LastinputX", lastinputX);
             //animator.SetFloat("LastinputY", lastinputY);
             return;
@@ -50,14 +57,21 @@ public class EnemyController : MonoBehaviour
         else if (animator.GetBool("Dead") == true)
         {
             animator.SetBool("isWalking", false);
+            StopIdle();
         }
         else if (Vector2.Distance(transform.position, player.transform.position) <= maxRange && Vector2.Distance(player.transform.position, transform.position) >= minRange)
         {
             Chase();
+            if (!playingIdle)
+            {
+                StartIdle();
+            }
+            
         }
         else
         {
             MoveToWaypoint();
+            StopIdle();
         }
     }
 
@@ -69,6 +83,8 @@ public class EnemyController : MonoBehaviour
         animator.SetFloat("InputX", direction.x);
         animator.SetFloat("InputY", direction.y);
         transform.position = Vector2.MoveTowards(transform.position, player.transform.position, speed * Time.deltaTime);
+        
+        
 
     }
 
@@ -99,6 +115,7 @@ public class EnemyController : MonoBehaviour
     {
         isWaiting = true;
         animator.SetBool("isWalking", false);
+        //SoundEffectManager.Play(playIdle);
 
         //animator.SetFloat("LastinputX", lastinputX);
         //animator.SetFloat("LastinputY", lastinputY);
@@ -118,6 +135,7 @@ public class EnemyController : MonoBehaviour
         if (health <= 0)
         {
             animator.SetBool("Dead", true);
+            SoundEffectManager.Play(playDeath);
             dead = true;
             Destroy(gameObject, 10f);
         }
@@ -130,6 +148,23 @@ public class EnemyController : MonoBehaviour
             Vector2 difference = transform.position - other.transform.position;
             transform.position = new Vector2(transform.position.x + difference.x, transform.position.y + difference.y);
         }
+    }
+
+    void StartIdle()
+    {
+        playingIdle = true;
+        InvokeRepeating(nameof(PlayIdle), 1f, idleSpeed);
+    }
+
+    void StopIdle()
+    {
+        playingIdle = false;
+        CancelInvoke(nameof(PlayIdle));
+    }
+
+    void PlayIdle()
+    {
+        SoundEffectManager.Play(playIdle);
     }
 
 }

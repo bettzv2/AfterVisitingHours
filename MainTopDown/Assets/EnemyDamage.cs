@@ -6,6 +6,7 @@ public class EnemyDamage : MonoBehaviour
     public PlayerHealth playerHealth;
     public EnemyController enemyHealth;
     public int damage = 2;
+    [SerializeField] private string playAttack;
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -14,6 +15,7 @@ public class EnemyDamage : MonoBehaviour
             if (collision.gameObject.tag == "Player")
             {
                 playerHealth.TakeDamage(damage);
+                SoundEffectManager.Play(playAttack);
             }
         }
         else

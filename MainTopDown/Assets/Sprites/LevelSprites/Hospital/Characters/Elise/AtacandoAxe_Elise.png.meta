@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 3e9e5ae7e26f3e04db201cdfce495223
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7587622397081416860
+    second: AtacandoAxe_Elise_0
+  - first:
+      213: -2241747980133642284
+    second: AtacandoAxe_Elise_1
+  - first:
+      213: 2425839462956771528
+    second: AtacandoAxe_Elise_2
+  - first:
+      213: -3214311344415897336
+    second: AtacandoAxe_Elise_3
+  - first:
+      213: 799521288672706215
+    second: AtacandoAxe_Elise_4
+  - first:
+      213: -5954427889054517706
+    second: AtacandoAxe_Elise_5
+  - first:
+      213: 3834435745018358126
+    second: AtacandoAxe_Elise_6
+  - first:
+      213: 5567314539132799932
+    second: AtacandoAxe_Elise_7
+  - first:
+      213: 613786556208850597
+    second: AtacandoAxe_Elise_8
+  - first:
+      213: 8247082325464361485
+    second: AtacandoAxe_Elise_9
+  - first:
+      213: -4126846937283665932
+    second: AtacandoAxe_Elise_10
+  - first:
+      213: -4998798092521788495
+    second: AtacandoAxe_Elise_11
+  - first:
+      213: -3609721565355584332
+    second: AtacandoAxe_Elise_12
+  - first:
+      213: -2555248432207527308
+    second: AtacandoAxe_Elise_13
+  - first:
+      213: -8440157314383715860
+    second: AtacandoAxe_Elise_14
+  - first:
+      213: 546119656887228271
+    second: AtacandoAxe_Elise_15
+  - first:
+      213: 3433439241913273911
+    second: AtacandoAxe_Elise_16
+  - first:
+      213: -5883845580149308525
+    second: AtacandoAxe_Elise_17
+  - first:
+      213: -8414048040062065489
+    second: AtacandoAxe_Elise_18
+  - first:
+      213: -33006985567715912
+    second: AtacandoAxe_Elise_19
+  - first:
+      213: -8030718728585221610
+    second: AtacandoAxe_Elise_20
+  - first:
+      213: 8741683247986836092
+    second: AtacandoAxe_Elise_21
+  - first:
+      213: 6530503167301152178
+    second: AtacandoAxe_Elise_22
+  - first:
+      213: -1562257835112551327
+    second: AtacandoAxe_Elise_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 103
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b0a2c71a953b690800000000000000
+      internalID: -7587622397081416860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 102
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df4f20e616b3e0e0800000000000000
+      internalID: -2241747980133642284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 103
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8a9af83205aa120800000000000000
+      internalID: 2425839462956771528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 103
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8090596ccd87463d0800000000000000
+      internalID: -3214311344415897336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 104
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aef2b14068781b00800000000000000
+      internalID: 799521288672706215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 104
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636f930026f9d5da0800000000000000
+      internalID: -5954427889054517706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 69
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6921ef8ef6a63530800000000000000
+      internalID: 3834435745018358126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbc0e19313134d40800000000000000
+      internalID: 5567314539132799932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 33
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a62db2fe9b948800800000000000000
+      internalID: 613786556208850597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 68
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0aa4ba1ea5837270800000000000000
+      internalID: 8247082325464361485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 68
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff5cc4539e7ab6c0800000000000000
+      internalID: -4126846937283665932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 68
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bba65f9e93b0aab0800000000000000
+      internalID: -4998798092521788495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 68
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4d9e68c51b7edc0800000000000000
+      internalID: -3609721565355584332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 34
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4728565d61fe98cd0800000000000000
+      internalID: -2555248432207527308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 33
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce16eb3f3a98eda80800000000000000
+      internalID: -8440157314383715860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f671f993fe4349700800000000000000
+      internalID: 546119656887228271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 33
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e8024acc606af20800000000000000
+      internalID: 3433439241913273911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 34
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393c2f96e91685ea0800000000000000
+      internalID: -5883845580149308525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 34
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4670913eb4b3b80800000000000000
+      internalID: -8414048040062065489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd312e425cba8ff0800000000000000
+      internalID: -33006985567715912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ae99b6dd72d8090800000000000000
+      internalID: -8030718728585221610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c720d3f3992b05970800000000000000
+      internalID: 8741683247986836092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd6c83d70201aa50800000000000000
+      internalID: 6530503167301152178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoAxe_Elise_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cab82b6ceb15ae0800000000000000
+      internalID: -1562257835112551327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AtacandoAxe_Elise_0: -7587622397081416860
+      AtacandoAxe_Elise_1: -2241747980133642284
+      AtacandoAxe_Elise_10: -4126846937283665932
+      AtacandoAxe_Elise_11: -4998798092521788495
+      AtacandoAxe_Elise_12: -3609721565355584332
+      AtacandoAxe_Elise_13: -2555248432207527308
+      AtacandoAxe_Elise_14: -8440157314383715860
+      AtacandoAxe_Elise_15: 546119656887228271
+      AtacandoAxe_Elise_16: 3433439241913273911
+      AtacandoAxe_Elise_17: -5883845580149308525
+      AtacandoAxe_Elise_18: -8414048040062065489
+      AtacandoAxe_Elise_19: -33006985567715912
+      AtacandoAxe_Elise_2: 2425839462956771528
+      AtacandoAxe_Elise_20: -8030718728585221610
+      AtacandoAxe_Elise_21: 8741683247986836092
+      AtacandoAxe_Elise_22: 6530503167301152178
+      AtacandoAxe_Elise_23: -1562257835112551327
+      AtacandoAxe_Elise_3: -3214311344415897336
+      AtacandoAxe_Elise_4: 799521288672706215
+      AtacandoAxe_Elise_5: -5954427889054517706
+      AtacandoAxe_Elise_6: 3834435745018358126
+      AtacandoAxe_Elise_7: 5567314539132799932
+      AtacandoAxe_Elise_8: 613786556208850597
+      AtacandoAxe_Elise_9: 8247082325464361485
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

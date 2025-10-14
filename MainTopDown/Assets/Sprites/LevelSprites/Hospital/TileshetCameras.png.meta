@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: cb268046f4231f440aad7ff49dc4caa2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4188375816829939927
+    second: TileshetCameras_0
+  - first:
+      213: 2321930949400531924
+    second: TileshetCameras_1
+  - first:
+      213: 2909926524429082809
+    second: TileshetCameras_2
+  - first:
+      213: 8123275702446213472
+    second: TileshetCameras_3
+  - first:
+      213: -3356398600266274017
+    second: TileshetCameras_4
+  - first:
+      213: -4489176356150825677
+    second: TileshetCameras_5
+  - first:
+      213: 1412224288569832827
+    second: TileshetCameras_6
+  - first:
+      213: 8843197560632176328
+    second: TileshetCameras_7
+  - first:
+      213: -4057882560540556362
+    second: TileshetCameras_8
+  - first:
+      213: -1767498362874949971
+    second: TileshetCameras_9
+  - first:
+      213: -981904567087137240
+    second: TileshetCameras_10
+  - first:
+      213: 2451512005963108991
+    second: TileshetCameras_11
+  - first:
+      213: 5997378584731692545
+    second: TileshetCameras_12
+  - first:
+      213: -5327333410314650957
+    second: TileshetCameras_13
+  - first:
+      213: -6647152532430857301
+    second: TileshetCameras_14
+  - first:
+      213: 1368514737620342420
+    second: TileshetCameras_15
+  - first:
+      213: 7667649959532041467
+    second: TileshetCameras_16
+  - first:
+      213: -8230983697494635561
+    second: TileshetCameras_17
+  - first:
+      213: 1526884177657507633
+    second: TileshetCameras_18
+  - first:
+      213: 511124162282444596
+    second: TileshetCameras_19
+  - first:
+      213: 7305137881628599336
+    second: TileshetCameras_20
+  - first:
+      213: -454263740630957049
+    second: TileshetCameras_21
+  - first:
+      213: 7988677980189310847
+    second: TileshetCameras_22
+  - first:
+      213: 824329520674677059
+    second: TileshetCameras_23
+  - first:
+      213: -2458986217530425741
+    second: TileshetCameras_24
+  - first:
+      213: 6515615346591827171
+    second: TileshetCameras_25
+  - first:
+      213: -4185646454928207581
+    second: TileshetCameras_26
+  - first:
+      213: -8225550646540768952
+    second: TileshetCameras_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileshetCameras_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d03cfb4d99102a30800000000000000
+      internalID: 4188375816829939927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 68
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3110875e7293020800000000000000
+      internalID: 2321930949400531924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 67
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0251ba1c2226820800000000000000
+      internalID: 2909926524429082809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0694ed0663cabb070800000000000000
+      internalID: 8123275702446213472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 67
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ba28a814dab61d0800000000000000
+      internalID: -3356398600266274017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 68
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d2c8583ed33b1c0800000000000000
+      internalID: -4489176356150825677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 70
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b753267128a399310800000000000000
+      internalID: 1412224288569832827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cee410045959ba70800000000000000
+      internalID: 8843197560632176328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 42
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b34abe8f418fa7c0800000000000000
+      internalID: -4057882560540556362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 42
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae01c38a959877e0800000000000000
+      internalID: -1767498362874949971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 42
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82eff63aff29f52f0800000000000000
+      internalID: -981904567087137240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 42
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7259064e25850220800000000000000
+      internalID: 2451512005963108991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_12
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 42
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ea77e1c08fa3350800000000000000
+      internalID: 5997378584731692545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 42
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baff1e1d728116b0800000000000000
+      internalID: -5327333410314650957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 28
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babde986df190c3a0800000000000000
+      internalID: -6647152532430857301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4965fb537e0fdf210800000000000000
+      internalID: 1368514737620342420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 28
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf412f36307f86a60800000000000000
+      internalID: 7667649959532041467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 27
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db0dcecfeba5cd80800000000000000
+      internalID: -8230983697494635561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 24
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fa07ed115903510800000000000000
+      internalID: 1526884177657507633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 22
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437d6f0b7b0e71700800000000000000
+      internalID: 511124162282444596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 21
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824e8b5f230116560800000000000000
+      internalID: 7305137881628599336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7040a51e88122b9f0800000000000000
+      internalID: -454263740630957049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f3b221c4c7dde60800000000000000
+      internalID: 7988677980189310847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 4
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341aea1e45b907b00800000000000000
+      internalID: 824329520674677059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 7
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e748c301defddd0800000000000000
+      internalID: -2458986217530425741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 8
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e480b2f2ad1c6a50800000000000000
+      internalID: 6515615346591827171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 8
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32191aac9b899e5c0800000000000000
+      internalID: -4185646454928207581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileshetCameras_27
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 7
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849e3fe8449f8dd80800000000000000
+      internalID: -8225550646540768952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TileshetCameras_0: 4188375816829939927
+      TileshetCameras_1: 2321930949400531924
+      TileshetCameras_10: -981904567087137240
+      TileshetCameras_11: 2451512005963108991
+      TileshetCameras_12: 5997378584731692545
+      TileshetCameras_13: -5327333410314650957
+      TileshetCameras_14: -6647152532430857301
+      TileshetCameras_15: 1368514737620342420
+      TileshetCameras_16: 7667649959532041467
+      TileshetCameras_17: -8230983697494635561
+      TileshetCameras_18: 1526884177657507633
+      TileshetCameras_19: 511124162282444596
+      TileshetCameras_2: 2909926524429082809
+      TileshetCameras_20: 7305137881628599336
+      TileshetCameras_21: -454263740630957049
+      TileshetCameras_22: 7988677980189310847
+      TileshetCameras_23: 824329520674677059
+      TileshetCameras_24: -2458986217530425741
+      TileshetCameras_25: 6515615346591827171
+      TileshetCameras_26: -4185646454928207581
+      TileshetCameras_27: -8225550646540768952
+      TileshetCameras_3: 8123275702446213472
+      TileshetCameras_4: -3356398600266274017
+      TileshetCameras_5: -4489176356150825677
+      TileshetCameras_6: 1412224288569832827
+      TileshetCameras_7: 8843197560632176328
+      TileshetCameras_8: -4057882560540556362
+      TileshetCameras_9: -1767498362874949971
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

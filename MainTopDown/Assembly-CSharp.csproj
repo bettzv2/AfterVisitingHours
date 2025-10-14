@@ -50,6 +50,8 @@
   <ItemGroup>
     <Compile Include="Assets\EnemyDamage.cs" />
     <Compile Include="Assets\FlashLight.cs" />
+    <Compile Include="Assets\SoundEffectLibrary.cs" />
+    <Compile Include="Assets\SettingsOptions.cs" />
     <Compile Include="Assets\Interactable.cs" />
     <Compile Include="Assets\AimDirection.cs" />
     <Compile Include="Assets\WaypointMover.cs" />
@@ -60,9 +62,12 @@
     <Compile Include="Assets\InteractionDetector.cs" />
     <Compile Include="Assets\EnemyController.cs" />
     <Compile Include="Assets\MenuController.cs" />
+    <Compile Include="Assets\SoundEffectManager.cs" />
     <Compile Include="Assets\PlayerMovement.cs" />
     <Compile Include="Assets\GlobalHelper.cs" />
+    <Compile Include="Assets\MusicManager.cs" />
     <Compile Include="Assets\LightSwitch.cs" />
+    <Compile Include="Assets\StartMenu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

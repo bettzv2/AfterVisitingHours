@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: ea9de80e905b74c4e8b73f2515632521
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8573235856566616839
+    second: AtacandoCrutch_Elise_0
+  - first:
+      213: 9139163134530104024
+    second: AtacandoCrutch_Elise_1
+  - first:
+      213: -2935602441955525045
+    second: AtacandoCrutch_Elise_2
+  - first:
+      213: 3617534841246004696
+    second: AtacandoCrutch_Elise_3
+  - first:
+      213: -2294255227842788898
+    second: AtacandoCrutch_Elise_4
+  - first:
+      213: 7189737143753334046
+    second: AtacandoCrutch_Elise_5
+  - first:
+      213: 1399810975490885182
+    second: AtacandoCrutch_Elise_6
+  - first:
+      213: 8991726765739473599
+    second: AtacandoCrutch_Elise_7
+  - first:
+      213: -7819996036561639182
+    second: AtacandoCrutch_Elise_8
+  - first:
+      213: 411919516370904919
+    second: AtacandoCrutch_Elise_9
+  - first:
+      213: -6149188574709824702
+    second: AtacandoCrutch_Elise_10
+  - first:
+      213: 7807835174894193564
+    second: AtacandoCrutch_Elise_11
+  - first:
+      213: -4028511042650744132
+    second: AtacandoCrutch_Elise_12
+  - first:
+      213: -7219348941894726227
+    second: AtacandoCrutch_Elise_13
+  - first:
+      213: 8855206417199206670
+    second: AtacandoCrutch_Elise_14
+  - first:
+      213: 3240681013402326115
+    second: AtacandoCrutch_Elise_15
+  - first:
+      213: -9185011494098351969
+    second: AtacandoCrutch_Elise_16
+  - first:
+      213: 7688362212254520066
+    second: AtacandoCrutch_Elise_17
+  - first:
+      213: -886347367681700587
+    second: AtacandoCrutch_Elise_18
+  - first:
+      213: 2356868224356709844
+    second: AtacandoCrutch_Elise_19
+  - first:
+      213: 5958553065213257782
+    second: AtacandoCrutch_Elise_20
+  - first:
+      213: -87722890530306467
+    second: AtacandoCrutch_Elise_21
+  - first:
+      213: 3932925979303612444
+    second: AtacandoCrutch_Elise_22
+  - first:
+      213: 7859975911379818129
+    second: AtacandoCrutch_Elise_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 103
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc74b1596fb50980800000000000000
+      internalID: -8573235856566616839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 102
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da23021374d4de70800000000000000
+      internalID: 9139163134530104024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 103
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4eb87de125a247d0800000000000000
+      internalID: -2935602441955525045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 103
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5311785c0143230800000000000000
+      internalID: 3617534841246004696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 104
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed10958960b2920e0800000000000000
+      internalID: -2294255227842788898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 104
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d59d1e6d317c360800000000000000
+      internalID: 7189737143753334046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 69
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36c3da6aa02d6310800000000000000
+      internalID: 1399810975490885182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaf54d6ad709cc70800000000000000
+      internalID: 8991726765739473599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 68
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8e7cf690bc97390800000000000000
+      internalID: -7819996036561639182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 68
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757a6512e9e67b500800000000000000
+      internalID: 411919516370904919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 68
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243c7833291b9aaa0800000000000000
+      internalID: -6149188574709824702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 70
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b4e5059b00b5c60800000000000000
+      internalID: 7807835174894193564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 34
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba5019fc8ad718c0800000000000000
+      internalID: -4028511042650744132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 33
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadc5c81368bfcb90800000000000000
+      internalID: -7219348941894726227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 33
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e011bedc15304ea70800000000000000
+      internalID: 8855206417199206670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 33
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364d23a363639fc20800000000000000
+      internalID: 3240681013402326115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 34
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98436cd5b8488080800000000000000
+      internalID: -9185011494098351969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 34
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20397f582bc82ba60800000000000000
+      internalID: 7688362212254520066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dcab1e3cf03b3f0800000000000000
+      internalID: -886347367681700587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5ff2fa92745b020800000000000000
+      internalID: 2356868224356709844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638e95b617801b250800000000000000
+      internalID: 5958553065213257782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56454fee7858cef0800000000000000
+      internalID: -87722890530306467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c101c44375f849630800000000000000
+      internalID: 3932925979303612444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AtacandoCrutch_Elise_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196dbec827e341d60800000000000000
+      internalID: 7859975911379818129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AtacandoCrutch_Elise_0: -8573235856566616839
+      AtacandoCrutch_Elise_1: 9139163134530104024
+      AtacandoCrutch_Elise_10: -6149188574709824702
+      AtacandoCrutch_Elise_11: 7807835174894193564
+      AtacandoCrutch_Elise_12: -4028511042650744132
+      AtacandoCrutch_Elise_13: -7219348941894726227
+      AtacandoCrutch_Elise_14: 8855206417199206670
+      AtacandoCrutch_Elise_15: 3240681013402326115
+      AtacandoCrutch_Elise_16: -9185011494098351969
+      AtacandoCrutch_Elise_17: 7688362212254520066
+      AtacandoCrutch_Elise_18: -886347367681700587
+      AtacandoCrutch_Elise_19: 2356868224356709844
+      AtacandoCrutch_Elise_2: -2935602441955525045
+      AtacandoCrutch_Elise_20: 5958553065213257782
+      AtacandoCrutch_Elise_21: -87722890530306467
+      AtacandoCrutch_Elise_22: 3932925979303612444
+      AtacandoCrutch_Elise_23: 7859975911379818129
+      AtacandoCrutch_Elise_3: 3617534841246004696
+      AtacandoCrutch_Elise_4: -2294255227842788898
+      AtacandoCrutch_Elise_5: 7189737143753334046
+      AtacandoCrutch_Elise_6: 1399810975490885182
+      AtacandoCrutch_Elise_7: 8991726765739473599
+      AtacandoCrutch_Elise_8: -7819996036561639182
+      AtacandoCrutch_Elise_9: 411919516370904919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
