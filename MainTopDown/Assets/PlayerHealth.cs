@@ -1,3 +1,4 @@
+using System;
 using Microsoft.Unity.VisualStudio.Editor;
 using UnityEngine;
 using UnityEngine.UI;
@@ -7,7 +8,7 @@ public class PlayerHealth : MonoBehaviour
     public int health;
     public int maxHealth = 3;
     [SerializeField] private UnityEngine.UI.Image[] hearts;
-    public PlayerMovement playerMovement;
+    public GameObject gameOverScreen;
 
     void Start()
     {
@@ -24,8 +25,9 @@ public class PlayerHealth : MonoBehaviour
 
         if (health <= 0)
         {
-            playerMovement.enabled = false;
+            MenuController.isPaused = true;
             Debug.Log("Player is dead!");
+            gameOverScreen.SetActive(true);
         }
     }
 

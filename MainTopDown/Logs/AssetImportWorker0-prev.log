@@ -1,9 +1,9 @@
 [Licensing::Module] Trying to connect to existing licensing client channel...
 Built from '6000.2/staging' branch; Version is '6000.2.2f1 (ea398eefe1c2) revision 15350158'; Using compiler version '194234433'; Build Type 'Release'
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-fer" at "2025-10-13T19:07:01.841097Z"
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-fer" at "2025-10-21T04:10:45.9343519Z"
 OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'en' Physical Memory: 31848 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
-Date: 2025-10-13T19:07:01Z
+Date: 2025-10-21T04:10:45Z
 
 COMMAND LINE ARGUMENTS:
 C:\Program Files\Unity\Hub\Editor\6000.2.2f1-x86_64\Editor\Unity.exe
@@ -17,7 +17,7 @@ C:/Unity projects/MainTopDown
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49400
+62288
 -licensingIpc
 LicenseClient-fer
 -job-worker-count
@@ -65,28 +65,28 @@ C:/Unity projects/MainTopDown
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [28724]  Target information:
+Player connection [16792]  Target information:
 
-Player connection [28724]  * "[IP] 10.5.0.2 [Port] 0 [Flags] 2 [Guid] 1561788552 [EditorId] 1561788552 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-ATOMIC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [16792]  * "[IP] 10.5.0.2 [Port] 0 [Flags] 2 [Guid] 3206452586 [EditorId] 3206452586 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-ATOMIC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [28724]  * "[IP] 192.168.1.163 [Port] 0 [Flags] 2 [Guid] 1561788552 [EditorId] 1561788552 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-ATOMIC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [16792]  * "[IP] 192.168.1.163 [Port] 0 [Flags] 2 [Guid] 3206452586 [EditorId] 3206452586 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-ATOMIC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [28724] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [28724] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [16792] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [16792] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 11
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
-[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 32040, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 16120, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
 [Licensing::Module] LicensingClient has failed validation; ignoring
 [Licensing::Client] Handshaking with LicensingClient:
   Version:                 1.17.3+a4e98f1
-  Session Id:              2c728c135abd44f2b3fb4090942c1d0c
-  Correlation Id:          9a0ae238df18daa538b62238e65ca2e7
-  External correlation Id: 3964914975357709705
+  Session Id:              32d1bad8f0ae47aa99b7a3f91fbc85e5
+  Correlation Id:          32674161a6bd3e338b3101a64110e166
+  External correlation Id: 5976833302137128361
   Machine Id:              24RKWgNJf3IiQsUb+Z9Vbb2BziQ=
-[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-fer" (connect: 0.00s, validation: 0.00s, handshake: 0.03s)
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-fer-notifications" at "2025-10-13T19:07:01.8709806Z"
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-fer" (connect: 0.00s, validation: 0.00s, handshake: 0.02s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-fer-notifications" at "2025-10-21T04:10:45.9592036Z"
 [Licensing::Module] Licensing Background thread has ended after 0.03s
 Library Redirect Path: Library/
 [Physics::Module] Selected backend.
@@ -95,7 +95,7 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 3.92 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 3.67 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.2.2f1 (ea398eefe1c2)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.2.2f1-x86_64/Editor/Data/Resources/UnitySubsystems
@@ -113,43 +113,43 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.2.2f1-x86_64/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.2.2f1-x86_64/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.2.2f1-x86_64/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56096
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56352
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.2f1-x86_64/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003201 seconds.
-- Loaded All Assemblies, in  0.298 seconds
+Registered in 0.003352 seconds.
+- Loaded All Assemblies, in  0.295 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.196 seconds
-Domain Reload Profiling: 487ms
-	BeginReloadAssembly (124ms)
+- Finished resetting the current domain, in  0.210 seconds
+Domain Reload Profiling: 498ms
+	BeginReloadAssembly (108ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (26ms)
+	RebuildCommonClasses (25ms)
 	RebuildNativeTypeToScriptingClass (7ms)
-	initialDomainReloadingComplete (41ms)
-	LoadAllAssembliesAndSetupDomain (93ms)
-		LoadAssemblies (114ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (104ms)
+		LoadAssemblies (100ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (91ms)
-			TypeCache.Refresh (89ms)
-				TypeCache.ScanAssembly (80ms)
+		AnalyzeDomain (102ms)
+			TypeCache.Refresh (101ms)
+				TypeCache.ScanAssembly (92ms)
 			BuildScriptInfoCaches (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (196ms)
+	FinalizeReload (210ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (168ms)
+		SetupLoadedEditorAssemblies (191ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (35ms)
-			SetLoadedEditorAssemblies (2ms)
-			BeforeProcessingInitializeOnLoad (33ms)
-			ProcessInitializeOnLoadAttributes (71ms)
-			ProcessInitializeOnLoadMethodAttributes (27ms)
+			InitializePlatformSupportModulesInManaged (34ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (42ms)
+			ProcessInitializeOnLoadAttributes (82ms)
+			ProcessInitializeOnLoadMethodAttributes (29ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -167,11 +167,11 @@ Begin MonoManager ReloadAssembly
   Product: Unity Personal
   Type: Assigned
   Expiration: Unlimited
-- Loaded All Assemblies, in  0.676 seconds
+- Loaded All Assemblies, in  0.709 seconds
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
 'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-Refreshing native plugins compatible for Editor in 1.94 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 2.91 ms, found 4 plugins.
 Native extension for WindowsStandalone target not found
 Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
 Package Manager log level set to [2]
@@ -182,327 +182,198 @@ Package Manager log level set to [2]
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.493 seconds
-Domain Reload Profiling: 1155ms
-	BeginReloadAssembly (159ms)
+- Finished resetting the current domain, in  0.537 seconds
+Domain Reload Profiling: 1232ms
+	BeginReloadAssembly (139ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (3ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (22ms)
-	RebuildCommonClasses (23ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (25ms)
 	RebuildNativeTypeToScriptingClass (7ms)
-	initialDomainReloadingComplete (34ms)
-	LoadAllAssembliesAndSetupDomain (440ms)
-		LoadAssemblies (356ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (484ms)
+		LoadAssemblies (381ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (166ms)
-			TypeCache.Refresh (125ms)
-				TypeCache.ScanAssembly (116ms)
-			BuildScriptInfoCaches (32ms)
-			ResolveRequiredComponents (6ms)
-	FinalizeReload (493ms)
+		AnalyzeDomain (183ms)
+			TypeCache.Refresh (133ms)
+				TypeCache.ScanAssembly (123ms)
+			BuildScriptInfoCaches (40ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (538ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (407ms)
+		SetupLoadedEditorAssemblies (443ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (1ms)
 			SetLoadedEditorAssemblies (4ms)
-			BeforeProcessingInitializeOnLoad (104ms)
-			ProcessInitializeOnLoadAttributes (226ms)
-			ProcessInitializeOnLoadMethodAttributes (62ms)
-			AfterProcessingInitializeOnLoad (10ms)
+			BeforeProcessingInitializeOnLoad (113ms)
+			ProcessInitializeOnLoadAttributes (240ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (13ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (4ms)
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
-Refreshing native plugins compatible for Editor in 2.17 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 2.77 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 38 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 7171 unused Assets / (6.1 MB). Loaded Objects now: 7854.
-Memory consumption went from 155.8 MB to 149.7 MB.
-Total: 5.842300 ms (FindLiveObjects: 0.597200 ms CreateObjectMapping: 0.239600 ms MarkObjects: 3.029100 ms  DeleteObjects: 1.975700 ms)
-
-========================================================================
-Received Prepare
-Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
-Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
-Begin MonoManager ReloadAssembly
-[Licensing::Client] Successfully resolved entitlement details
-- Loaded All Assemblies, in  0.722 seconds
-Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
-'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-Refreshing native plugins compatible for Editor in 2.53 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.448 seconds
-Domain Reload Profiling: 1147ms
-	BeginReloadAssembly (216ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (7ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (38ms)
-	RebuildCommonClasses (28ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (33ms)
-	LoadAllAssembliesAndSetupDomain (412ms)
-		LoadAssemblies (397ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (124ms)
-			TypeCache.Refresh (4ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (111ms)
-			ResolveRequiredComponents (7ms)
-	FinalizeReload (448ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (357ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (1ms)
-			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (113ms)
-			ProcessInitializeOnLoadAttributes (199ms)
-			ProcessInitializeOnLoadMethodAttributes (27ms)
-			AfterProcessingInitializeOnLoad (13ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (8ms)
-Refreshing native plugins compatible for Editor in 2.09 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 37 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 7169 unused Assets / (7.0 MB). Loaded Objects now: 7857.
-Memory consumption went from 158.5 MB to 151.5 MB.
-Total: 6.050500 ms (FindLiveObjects: 0.612600 ms CreateObjectMapping: 0.285100 ms MarkObjects: 2.925900 ms  DeleteObjects: 2.226300 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Prepare
-Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
-Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.670 seconds
-Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
-'Packages/com.unity.cinemachine/Editor/Obsolete/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-'Packages/com.unity.cinemachine/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
-Refreshing native plugins compatible for Editor in 3.05 ms, found 4 plugins.
-Native extension for WindowsStandalone target not found
-Assembly reference Packages/com.unity.cinemachine/Editor/Samples/ExposeHDRPInternals/HDRP-Editor-ref.asmref has no target assembly definition
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.505 seconds
-Domain Reload Profiling: 1163ms
-	BeginReloadAssembly (193ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (10ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (37ms)
-	RebuildCommonClasses (22ms)
-	RebuildNativeTypeToScriptingClass (8ms)
-	initialDomainReloadingComplete (32ms)
-	LoadAllAssembliesAndSetupDomain (402ms)
-		LoadAssemblies (375ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (120ms)
-			TypeCache.Refresh (4ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (106ms)
-			ResolveRequiredComponents (7ms)
-	FinalizeReload (506ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (415ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (1ms)
-			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (139ms)
-			ProcessInitializeOnLoadAttributes (225ms)
-			ProcessInitializeOnLoadMethodAttributes (32ms)
-			AfterProcessingInitializeOnLoad (14ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (9ms)
-Refreshing native plugins compatible for Editor in 2.71 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 37 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 7169 unused Assets / (6.8 MB). Loaded Objects now: 7859.
-Memory consumption went from 160.3 MB to 153.4 MB.
-Total: 7.241400 ms (FindLiveObjects: 0.652700 ms CreateObjectMapping: 0.269400 ms MarkObjects: 3.626900 ms  DeleteObjects: 2.691500 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Import Request.
-  Time since last request: 1779608.850056 seconds.
-  path: Assets/Scenes/Level 1.unity
-  artifactKey: Guid(c71b67baca925c648abee50073b1c7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level 1.unity using Guid(c71b67baca925c648abee50073b1c7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b7ecd67c7dd23e598e594aa0552a861') in 0.0070198 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+Unloading 7175 unused Assets / (6.7 MB). Loaded Objects now: 7858.
+Memory consumption went from 153.3 MB to 146.5 MB.
+Total: 6.556000 ms (FindLiveObjects: 0.613300 ms CreateObjectMapping: 0.277400 ms MarkObjects: 3.291800 ms  DeleteObjects: 2.372300 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.796329 seconds.
-  path: Assets/Scenes/StartScene.unity
-  artifactKey: Guid(65bf584062caf0342a1c2b1c75312a11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/StartScene.unity using Guid(65bf584062caf0342a1c2b1c75312a11) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ad9faabf958a6f12a32b1f01698ac11') in 0.0006615 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.591049 seconds.
-  path: Assets/Scenes/Level 1.unity
-  artifactKey: Guid(c71b67baca925c648abee50073b1c7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Level 1.unity using Guid(c71b67baca925c648abee50073b1c7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e7c9d26d5f95be87d24b2b1157ad9015') in 0.0005857 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
-
-========================================================================
-Received Import Request.
-  Time since last request: 69.612826 seconds.
-  path: Assets/tile palettes
-  artifactKey: Guid(32112c2ca920f7a4cba281c8942af07f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tile palettes using Guid(32112c2ca920f7a4cba281c8942af07f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a421049bedd9f79878382b4395221956') in 0.0005308 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.033693 seconds.
-  path: Assets/tile palettes/elevator.prefab
-  artifactKey: Guid(38f053feab1682c488963dd53362fa13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tile palettes/elevator.prefab using Guid(38f053feab1682c488963dd53362fa13) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e6fdca0a2924519bcd60e26c6e1f88ec') in 0.3553965 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/tile palettes/TileSheet-BathroomWall_2.asset
-  artifactKey: Guid(499439040fd632d4b8acd17ac9e9946f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tile palettes/TileSheet-BathroomWall_2.asset using Guid(499439040fd632d4b8acd17ac9e9946f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c300b796c774fbc56b2530127d777f95') in 0.004756 seconds
+  Time since last request: 325229.326574 seconds.
+  path: Assets/Render2D_Renderer.asset
+  artifactKey: Guid(bb9c46cb95170494c8560589c727ad88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Render2D_Renderer.asset using Guid(bb9c46cb95170494c8560589c727ad88) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '36b6c43f8adeeb4ce5cce91ba3404df8') in 0.0189535 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/tile palettes/TileSheet-BathroomWall_9 2.asset
-  artifactKey: Guid(829405c2633694c44ba33d51874f4bc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tile palettes/TileSheet-BathroomWall_9 2.asset using Guid(829405c2633694c44ba33d51874f4bc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f49a59a99bc3c356bafa0595754a64bb') in 0.0017642 seconds
+  Time since last request: 1128.619827 seconds.
+  path: Assets/Scenes/Level1.unity
+  artifactKey: Guid(c71b67baca925c648abee50073b1c7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level1.unity using Guid(c71b67baca925c648abee50073b1c7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f1e05c8111f9947e7af183dfb8eafb24') in 0.0006484 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 155.552041 seconds.
+  path: Assets/Sprites/shut
+  artifactKey: Guid(58d121d12f9fe8c4492253df3d4bdc3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/shut using Guid(58d121d12f9fe8c4492253df3d4bdc3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '25635a9e8d42890961ad2fd71a6b2faa') in 0.0006439 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.472394 seconds.
+  path: Assets/Sprites/elevator
+  artifactKey: Guid(58d121d12f9fe8c4492253df3d4bdc3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/elevator using Guid(58d121d12f9fe8c4492253df3d4bdc3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0102324a2972851dd90a36842e0ab5b9') in 0.0005244 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.741785 seconds.
+  path: Assets/Sprites/elevator/000.png
+  artifactKey: Guid(202913d60edc44645ab3a185db0461df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/elevator/000.png using Guid(202913d60edc44645ab3a185db0461df) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '470c3ceb53bcb4ec871307dbe2fd16ef') in 0.0717104 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/elevator/005.png
+  artifactKey: Guid(42601f7bb45d85e479a12cf85892e1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/elevator/005.png using Guid(42601f7bb45d85e479a12cf85892e1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8d30254bfbe24e0f42dd1965ee742da8') in 0.0164975 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/elevator/004.png
+  artifactKey: Guid(f373c5ae7f63a5549a9d70728cce9f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/elevator/004.png using Guid(f373c5ae7f63a5549a9d70728cce9f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '75a165650b4ee9af443a36a07beb6121') in 0.0138619 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Sprites/elevator/010.png
+  artifactKey: Guid(e739a2b33008e6a45863fbcc98128621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/elevator/010.png using Guid(e739a2b33008e6a45863fbcc98128621) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ba9f1f1940b3c94f1bbcf3ae1be480fa') in 0.0177096 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Sprites/elevator/007.png
+  artifactKey: Guid(7c6659f53b9cc374f8603db78983319f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/elevator/007.png using Guid(7c6659f53b9cc374f8603db78983319f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '25fd7459a88a5787fc14be34882b79dc') in 0.0206759 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.571418 seconds.
+  path: Assets/Sprites/elevator/readme.txt
+  artifactKey: Guid(5b572ad0ecd94bd4e9faad793ecbd54d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/elevator/readme.txt using Guid(5b572ad0ecd94bd4e9faad793ecbd54d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd34f8d52b37454f950392e8d2e6c6ea0') in 0.001319 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.323317 seconds.
+  path: Assets/Sprites/elevator/000.png
+  artifactKey: Guid(202913d60edc44645ab3a185db0461df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/elevator/000.png using Guid(202913d60edc44645ab3a185db0461df) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '50910c89c0d8cdd93e7eba88f761952f') in 0.0151729 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sprites/elevator/005.png
+  artifactKey: Guid(42601f7bb45d85e479a12cf85892e1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/elevator/005.png using Guid(42601f7bb45d85e479a12cf85892e1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '341d5e1b52e0aa769d16158b319c2dea') in 0.0156516 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/elevator/004.png
+  artifactKey: Guid(f373c5ae7f63a5549a9d70728cce9f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/elevator/004.png using Guid(f373c5ae7f63a5549a9d70728cce9f6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bab75ef38912e37a1ad1ba305a4a843a') in 0.0148682 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Sprites/elevator/010.png
+  artifactKey: Guid(e739a2b33008e6a45863fbcc98128621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/elevator/010.png using Guid(e739a2b33008e6a45863fbcc98128621) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '94d2277a4f8b65107bb11bec5ef42ea2') in 0.0130368 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000022 seconds.
-  path: Assets/tile palettes/TileSheet-BathroomWall_0 1.asset
-  artifactKey: Guid(45acdf783ccb7e4488d7ace0e9b1796a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tile palettes/TileSheet-BathroomWall_0 1.asset using Guid(45acdf783ccb7e4488d7ace0e9b1796a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '28c44701703543057cf05ae8c856a80f') in 0.0018915 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+  path: Assets/Sprites/elevator/007.png
+  artifactKey: Guid(7c6659f53b9cc374f8603db78983319f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/elevator/007.png using Guid(7c6659f53b9cc374f8603db78983319f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '993dae32471fc0cc25e6121c405f9265') in 0.0138043 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/tile palettes/TileSheet-BathroomWall_3 2.asset
-  artifactKey: Guid(82bfe13505f43fb468e295fcc157eac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tile palettes/TileSheet-BathroomWall_3 2.asset using Guid(82bfe13505f43fb468e295fcc157eac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f1dc03dfaa8ff3a767587e93cd61dc35') in 0.0020101 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+  Time since last request: 0.000013 seconds.
+  path: Assets/Sprites/elevator/003.png
+  artifactKey: Guid(3b4e420713a129241b89b31e9da0d633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/elevator/003.png using Guid(3b4e420713a129241b89b31e9da0d633) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd06276cae6b22aca5dde684e198f1d81') in 0.0119459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/tile palettes/TileSheet-BathroomWall_5 2.asset
-  artifactKey: Guid(bbec36edd69b0734ab258649768737f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tile palettes/TileSheet-BathroomWall_5 2.asset using Guid(bbec36edd69b0734ab258649768737f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '981ae8ffcb2ed3becea97216e34ae0af') in 0.0022646 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+  Time since last request: 19.983479 seconds.
+  path: Assets/Sprites/elevator/002.png
+  artifactKey: Guid(baf30256ecd0c8e4b831bee7248e7c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/elevator/002.png using Guid(baf30256ecd0c8e4b831bee7248e7c93) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a19450581957eb9433ea92d6a961ea13') in 0.0082276 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/tile palettes/TileSheet-BathroomWall_6 1.asset
-  artifactKey: Guid(f2c8fba399a02774ca5aead5d74648e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tile palettes/TileSheet-BathroomWall_6 1.asset using Guid(f2c8fba399a02774ca5aead5d74648e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7f6c707d9131c333be99b7ddc8529f34') in 0.0023555 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+  Time since last request: 0.000016 seconds.
+  path: Assets/Sprites/elevator/009.png
+  artifactKey: Guid(5347cc81b7162a646a8edb1ffb1d1609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/elevator/009.png using Guid(5347cc81b7162a646a8edb1ffb1d1609) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c836075ad6631f80fb01ff8a6c63b355') in 0.0100499 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/tile palettes/TileSheet-BathroomWall_6.asset
-  artifactKey: Guid(e3897c5d72037c2429706de281ac4916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tile palettes/TileSheet-BathroomWall_6.asset using Guid(e3897c5d72037c2429706de281ac4916) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6371ee24dfdbfa74bb4e3844dc737466') in 0.0024625 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/tile palettes/ground.prefab
-  artifactKey: Guid(0c8aaf2ea951b3a4ebf8fdc4f5aa5d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tile palettes/ground.prefab using Guid(0c8aaf2ea951b3a4ebf8fdc4f5aa5d83) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cfc77abae3ea66bb0ccf5ee2480467f9') in 0.03532 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 43
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/tile palettes/TileSheet-BathroomWall_2 2.asset
-  artifactKey: Guid(c8dc5f7a00386464f84a15380f98b1e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tile palettes/TileSheet-BathroomWall_2 2.asset using Guid(c8dc5f7a00386464f84a15380f98b1e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9cc6e3a6059007904f065b2e536fdbe7') in 0.0022627 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/tile palettes/TileSheet-BathroomWall_2 1.asset
-  artifactKey: Guid(080a3f0e32aca8f4386c1828986f824a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tile palettes/TileSheet-BathroomWall_2 1.asset using Guid(080a3f0e32aca8f4386c1828986f824a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ce3624df65c13e2acef1f42829cd132a') in 0.0020188 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/tile palettes/TileSheet-BathroomWall_7 1.asset
-  artifactKey: Guid(83a1c763e83891f408b9b47ca15515cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tile palettes/TileSheet-BathroomWall_7 1.asset using Guid(83a1c763e83891f408b9b47ca15515cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c35fa3977b0d04a3824b0216ac506b10') in 0.0019447 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/tile palettes/TileSheet-BathroomWall_0 2.asset
-  artifactKey: Guid(b34992a0cafd86947b0f7e918ab91057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tile palettes/TileSheet-BathroomWall_0 2.asset using Guid(b34992a0cafd86947b0f7e918ab91057) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e3cdc0643f9be2588949b0018999b1b5') in 0.0021458 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/tile palettes/TileSheet-BathroomWall_1 2.asset
-  artifactKey: Guid(6aae2444f045ad641b33eae295aeb025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tile palettes/TileSheet-BathroomWall_1 2.asset using Guid(6aae2444f045ad641b33eae295aeb025) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9ab8fc381067ccb873223cd2290e47b3') in 0.002031 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/tile palettes/TileSheet-BathroomWall_9.asset
-  artifactKey: Guid(4db11f12633ad1d4b995b890059a9dc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tile palettes/TileSheet-BathroomWall_9.asset using Guid(4db11f12633ad1d4b995b890059a9dc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ff39e33817241cabd7ee9509e476d557') in 0.0020168 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/tile palettes/TileSheet-BathroomWall_7.asset
-  artifactKey: Guid(2b1dcaf6e12c9b942bebdd64bb38ad52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tile palettes/TileSheet-BathroomWall_7.asset using Guid(2b1dcaf6e12c9b942bebdd64bb38ad52) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5409fbc357d6befdcc96c0571a1d73b6') in 0.0025442 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+  Time since last request: 0.000023 seconds.
+  path: Assets/Sprites/elevator/010.png
+  artifactKey: Guid(e739a2b33008e6a45863fbcc98128621) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/elevator/010.png using Guid(e739a2b33008e6a45863fbcc98128621) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b5e1258930d04f83e5ec1b91d6d78077') in 0.011051 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server

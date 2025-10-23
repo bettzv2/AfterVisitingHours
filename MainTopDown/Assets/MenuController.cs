@@ -5,6 +5,9 @@ public class MenuController : MonoBehaviour
 {
     public GameObject pauseMenu;
     public static bool isPaused;
+    public GameObject gameOver;
+     public PlayerMovement playerMovement;
+    public PlayerAttack playerAttack;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -14,16 +17,23 @@ public class MenuController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (gameOver.activeSelf == false)
         {
-            if (isPaused)
+            if (Input.GetKeyDown(KeyCode.Escape))
             {
-                ResumeGame();
+                if (isPaused)
+                {
+                    ResumeGame();
+                }
+                else
+                {
+                    PauseGame();
+                }
             }
-            else
-            {
-                PauseGame();
-            }
+        }
+        else
+        {
+            PauseGame();
         }
     }
 
@@ -32,6 +42,9 @@ public class MenuController : MonoBehaviour
         pauseMenu.SetActive(true);
         Time.timeScale = 0f;
         isPaused = true;
+        playerMovement.StopFootsteps();
+        playerMovement.enabled = false;
+        playerAttack.enabled = false;
     }
 
     public void ResumeGame()
@@ -39,6 +52,8 @@ public class MenuController : MonoBehaviour
         pauseMenu.SetActive(false);
         Time.timeScale = 1f;
         isPaused = false;
+        playerMovement.enabled = true;
+        playerAttack.enabled = true;
     }
 
     public void GoToStartMenu()

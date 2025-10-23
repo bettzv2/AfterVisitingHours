@@ -27,7 +27,7 @@ public class EnemyController : MonoBehaviour
     [SerializeField] private string playIdle;
     [SerializeField] private string playDeath;
     public float idleSpeed = 5f;
-    
+
 
 
     void Start()
@@ -66,7 +66,7 @@ public class EnemyController : MonoBehaviour
             {
                 StartIdle();
             }
-            
+
         }
         else
         {
@@ -83,8 +83,8 @@ public class EnemyController : MonoBehaviour
         animator.SetFloat("InputX", direction.x);
         animator.SetFloat("InputY", direction.y);
         transform.position = Vector2.MoveTowards(transform.position, player.transform.position, speed * Time.deltaTime);
-        
-        
+
+
 
     }
 
@@ -160,11 +160,11 @@ public class EnemyController : MonoBehaviour
     {
         playingIdle = false;
         CancelInvoke(nameof(PlayIdle));
+
     }
 
     void PlayIdle()
     {
         SoundEffectManager.Play(playIdle);
     }
-
 }

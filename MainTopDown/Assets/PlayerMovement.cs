@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
     private Animator animator;
     private bool playingFootsteps = false;
     public float footstepSpeed = 0.5f;
+    
 
     void Start()
     {
@@ -25,6 +26,7 @@ public class PlayerMovement : MonoBehaviour
             StopFootsteps();
             return;
         }
+    
         rb.linearVelocity = moveInput * moveSpeed;
         animator.SetBool("isWalking", rb.linearVelocity.magnitude > 0);
 
@@ -66,7 +68,7 @@ public class PlayerMovement : MonoBehaviour
         
     }
 
-    void StopFootsteps()
+    public void StopFootsteps()
     {
         playingFootsteps = false;
         CancelInvoke(nameof(PlayFootsteps));

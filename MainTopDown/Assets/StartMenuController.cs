@@ -19,7 +19,7 @@ public class StartMenuController : MonoBehaviour
     public GameObject creditsPanel;
 
     [Header("Config")]
-    public string firstLevelSceneName = "Level1";
+    public string firstLevelSceneName = "Intro";
 
     [Header("Focus")]
     public Selectable defaultSelected;
@@ -65,7 +65,7 @@ public class StartMenuController : MonoBehaviour
         backButton.onClick.AddListener(OnBackFromPanel);
     }
 
-    public void OnStartGame() => SceneManager.LoadScene("Level1");
+    public void OnStartGame() => SceneManager.LoadScene("Intro");
 
     public void OnBackFromPanel()
     {
